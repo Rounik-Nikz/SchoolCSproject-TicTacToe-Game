@@ -4,3 +4,5 @@
 ![Image of UI of Game](https://github.com/Rounik-Nikz/SchoolCSproject-TicTacToe-Game/blob/main/Assets/UI-TicTacToeGame.jpeg)
 # License
 [MIT](https://github.com/Rounik-Nikz/SchoolCSproject-TicTacToe-Game/blob/main/LICENSE)
+# Copyright
+Rounik Mondal & Vinay Negi, All Rights Reserved
